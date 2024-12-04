@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a software engineer at <a href="https://swyftx.com/about/">Swyftx</a>, building financial freedom for everyone.
+
+My other GitHub account is probably more interesting: https://github.com/svict4
+
+
 <!--
 **simon-v-swyftx/simon-v-swyftx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
