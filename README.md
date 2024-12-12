@@ -2,7 +2,9 @@
 
 I'm a software engineer at <a href="https://swyftx.com/about/">Swyftx</a>, building financial freedom for everyone.
 
-My other GitHub account is probably more interesting: https://github.com/svict4
+My other personal GitHub account is probably more interesting: https://github.com/svict4
+
+Otherwise, let's connect: https://www.linkedin.com/in/simonvictory/
 
 
 <!--
